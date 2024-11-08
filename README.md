@@ -31,11 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo7&show_icons=true" />
 </picture>
 
-<div align="right">
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAraujo7&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
- </div>
+
   
 </div>
 
