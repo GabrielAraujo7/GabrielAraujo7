@@ -28,7 +28,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=GabrielAraujo7&show_icons=true"
     media="(prefers-color-scheme: black), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujo7&show_icons=true" />
 </picture>
 
 <div align="right">
