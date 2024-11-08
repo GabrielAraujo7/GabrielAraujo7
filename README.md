@@ -1,8 +1,10 @@
-### Olá, sou o Gabriel Araújo
+### Hi, I'm Gabriel Araújo
 
-- 🔭 Ainda não estou trabalhando, mas procuro estágio de desenvolvedor
-- 🌱 Estou aprendendo Java, javascript, css, html e python
-- 👯 Contato: jgabriel_araujon@gmail.com
+- 👨‍💻 Developer backend
+- 🎓 Studying Computer Science in the 6º semester.
+- 🏆 In the search for knowledge, to be able to go deeper into the area.
+- 💡 Always try be better.
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
